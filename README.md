@@ -1,4 +1,4 @@
-# pollutantprediction
+# pollutant concentration prediction
 we are provided air quality data and weather data (observed weather data from 18 weather stations and grid weather data from 651 points in Beijing, China) from January 1, 2017 to April 30, 2018, and we need to predict the concentration levels of PM2.5, PM10 and O3 between May 1 to May 2, 2018 (once an hour, 48 times for 35 station in total).
 
 This project contains four parts:
